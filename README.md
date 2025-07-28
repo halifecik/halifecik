@@ -1,5 +1,5 @@
 # Halil. Learning how to read & write code.   
-🚧 Currently building a streaming service in Go!
+🚧 Currently building a streaming service in Go
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
