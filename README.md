@@ -8,7 +8,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halifecik&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halifecik&layout=compact&theme=tokyonight)
 
 ## 🧠 Currently Learning
 ![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=go)
