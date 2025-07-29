@@ -1,13 +1,14 @@
 # Halil Demirci [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halifecik)
 🚧 Currently building a streaming service in Go
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 ![Streak](https://streak-stats.demolab.com?user=halifecik&theme=tokyonight&border_radius=5)
 
 ## 🧠 Currently Learning
