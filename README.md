@@ -1,5 +1,5 @@
 # Halil Demirci [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halifecik) 
-🚧 Currently building a streaming service in Go
+🚧 Currently building a streaming service using Go, Docker and much more!
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
