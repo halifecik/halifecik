@@ -1,10 +1,6 @@
 # Halil Demirci [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halifecik) 
 🚧 Currently building a streaming service using Go, Docker and SRT!
 
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=GulcB&color=brightgreen&style=flat&label=Profile+views)
-
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -19,3 +15,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+<div align="left">
+
+# ![Profile Views](https://komarev.com/ghpvc/?username=GulcB&color=brightgreen&style=flat&label=Profile+views)
