@@ -10,8 +10,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
----
-
 ### 🧠 Currently Learning
 ![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=go)
 ![SRT](https://img.shields.io/badge/SRT-Secure%20Reliable%20Transport-blueviolet?style=flat&logo=transmission&logoColor=white)
