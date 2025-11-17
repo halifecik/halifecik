@@ -18,6 +18,6 @@
 
 <img src="https://streak-stats.demolab.com?user=halifecik&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halifecik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halildemirci)
 
 ---
